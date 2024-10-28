@@ -22,7 +22,7 @@ dependencyResolutionManagement {
 2. Add the following dependency in your app's `build.gradle` file:
 ```
 dependencies {
-  implementation 'com.github.iambhargavnath:DurationPicker:v1.0.3'
+  implementation 'com.github.iambhargavnath:durationpicker-library:v1.0.3'
 }
 ```
 
@@ -43,7 +43,7 @@ dependencyResolutionManagement {
 2. Add the following dependency in your app's `build.gradle.kts` file:
 ```kotlin
 dependencies {
-  implementation("com.github.iambhargavnath:DurationPicker:v1.0.3")
+  implementation("com.github.iambhargavnath:durationpicker-library:v1.0.3")
 }
 ```
 
