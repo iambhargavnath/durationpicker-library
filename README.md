@@ -2,7 +2,7 @@
 This is a duration picker dialog for android with hour, minute and second.
 
 ## Screenshot
-<img align="center" src="https://github.com/iambhargavnath/DurationPicker/blob/master/Screenshot1.png" alt="Screenshot" width="360"/>
+<img align="center" src="https://github.com/iambhargavnath/DurationPicker/blob/master/Screenshot.png" alt="Screenshot" width="360"/>
 
 ## Installation
 
